@@ -1,0 +1,172 @@
+<metadata xml:lang="fr">
+	<Esri>
+		<CreaDate>20240502</CreaDate>
+		<CreaTime>13593400</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">CAD_COMMUNE</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">2485410.214700</westBL>
+					<eastBL Sync="TRUE">2512974.022800</eastBL>
+					<southBL Sync="TRUE">1109644.837200</southBL>
+					<northBL Sync="TRUE">1135578.429900</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\LAPTOP-GQ6PK0VF\C$\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Layers\CAD_COMMUNE.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_CH1903+</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+				<projcsn Sync="TRUE">CH1903+_LV95</projcsn>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.2.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;CH1903+_LV95&amp;quot;,GEOGCS[&amp;quot;GCS_CH1903+&amp;quot;,DATUM[&amp;quot;D_CH1903+&amp;quot;,SPHEROID[&amp;quot;Bessel_1841&amp;quot;,6377397.155,299.1528128]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Hotine_Oblique_Mercator_Azimuth_Center&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,2600000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,1200000.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,1.0],PARAMETER[&amp;quot;Azimuth&amp;quot;,90.0],PARAMETER[&amp;quot;Longitude_Of_Center&amp;quot;,7.439583333333333],PARAMETER[&amp;quot;Latitude_Of_Center&amp;quot;,46.95240555555556],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,2056]]&lt;/WKT&gt;&lt;XOrigin&gt;-27386400&lt;/XOrigin&gt;&lt;YOrigin&gt;-32067900&lt;/YOrigin&gt;&lt;XYScale&gt;140996569.55187955&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;2056&lt;/WKID&gt;&lt;LatestWKID&gt;2056&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+			<lineage>
+				<Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\Copy" Date="20170522" Time="094229">Copy "D:\MIGRATION_SDE\PMUM SDE a.sde\A.CAD_COMMUNE" D:\MIGRATION_SDE\SITG_EXPORT\EXPORT_SERVEUR_CONSULTATION.gdb\CAD_COMMUNE FeatureClass</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\engine10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200331" Time="165417">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\engine10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200515" Time="084846">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\engine10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200515" Time="085739">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200630" Time="112205">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\engine10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200710" Time="093341">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="c:\program files (x86)\arcgis\engine10.2\ArcToolbox\Toolboxes\Data Management Tools.tbx\MigrateStorage" Date="20200718" Time="084603">MigrateStorage '\\interzoneadm01\INTERZONE$\APP\GEOMATIQUE\GEOMATIQUE-EXPLOITATION\GEODATABASE\PROD\PMUM SDE a.sde\CAD_COMMUNE' ST_GEOMETRY</Process>
+				<Process ToolSource="d:\programs\desktop10.6\ArcToolbox\Toolboxes\Data Management Tools.tbx\Copy" Date="20240421" Time="005917">Copy D:\data\9635\300_GDBPARTSITG\sde\BACKUP_CONSULTATION_A.sde\A.CAD_COMMUNE D:\data\9635\300_GDBPARTSITG\export\partenaires\EXPORT_SERVEUR_CONSULTATION_SCHEMA_A.gdb\CAD_COMMUNE FeatureClass</Process><Process ToolSource="c:\program files\arcgis\server\ArcToolbox\Toolboxes\Data Management Tools.tbx\Copy" Date="20240502" Time="135934">Copy D:\ftp\sitg\GDB_PARTENAIRE_SITG.gdb\CAD_COMMUNE D:\connections\sitg@ge@wscgeo1.unige.ch.sde\ge.sitg.CAD_COMMUNE FeatureClass</Process><Process ToolSource="c:\program files\arcgis\server\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20240502" Time="135935">ChangePrivileges D:\connections\sitg@ge@wscgeo1.unige.ch.sde\CAD_COMMUNE etu GRANT #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20240510" Time="231453">FeatureClassToFeatureClass C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Layers CAD_COMMUNE.shp # "commune "commune" true true false 25 Text 0 0,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,commune,0,24;no_comm "no_comm" true true false 2 Short 0 5,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,no_comm,-1,-1;abreviation "abreviation" true true false 6 Text 0 0,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,abreviation,0,5;no_com_federal "no_com_federal" true true false 2 Short 0 5,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,no_com_federal,-1,-1;lien_www "lien_www" true true false 35 Text 0 0,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,lien_www,0,34;st_area(shape) "st_area(shape)" false true true 0 Double 0 0,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,st_area(shape),-1,-1;st_length(shape) "st_length(shape)" false true true 0 Double 0 0,First,#,C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Conn\test2.sde\ge.sitg.CAD_COMMUNE,st_length(shape),-1,-1" #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20240511" Time="004134">AddField C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Layers\CAD_COMMUNE.shp Total_Pop "Long (32-bit integer)" # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20240511" Time="004936">AddField C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Layers\CAD_COMMUNE.shp PopDens "Double (64-bit floating point)" # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20240511" Time="005654">AddField C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\\Layers\CAD_COMMUNE.shp NbArrets "Long (32-bit integer)" # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20240511" Time="010100">AddField C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\\Layers\CAD_COMMUNE.shp PopNonServ "Long (32-bit integer)" # # # # NULLABLE NON_REQUIRED #</Process><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20240519" Time="160401">AddField C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\Layers\CAD_COMMUNE.shp Total_Pop "Long (32-bit integer)" # # # # NULLABLE NON_REQUIRED #</Process></lineage>
+		</DataProperties>
+		<SyncDate>20240510</SyncDate>
+		<SyncTime>23145200</SyncTime>
+		<ModDate>20240510</ModDate>
+		<ModTime>23145200</ModTime>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Pierre Lafontaine</rpIndName>
+		<rpOrgName>Direction de l'information du territoire</rpOrgName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>+4122 546 72 81</voiceNum>
+			</cntPhone>
+			<cntAddress>
+				<eMailAdd>pierre.lafontaine@etat.ge.ch</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>20211007</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<distInfo>
+		<distributor>
+			<distorFormat>
+				<formatVer>-</formatVer>
+			</distorFormat>
+			<distorTran>
+				<offLineMed>
+					<medName>
+						<MedNameCd value="001"/>
+					</medName>
+				</offLineMed>
+			</distorTran>
+		</distributor>
+		<distTranOps>
+			<onLineSrc>
+				<linkage>https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_01/MapServer/5661</linkage>
+				<linkage>https://ge.ch/sitgags1/services/VECTOR/SITG_OPENDATA_01/MapServer/WMSServer</linkage>
+			</onLineSrc>
+			<transSize Sync="TRUE">0.000</transSize></distTranOps>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat></distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>COMMUNES GENEVOISES</resTitle>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+		</idCitation>
+		<idAbs>Périmètres des 45 communes genevoises, y compris les quatre sections de la commune de Genève :- Cité- Eaux-Vives- Petit-Saconnex- Plainpalais</idAbs>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="002"/>
+			</maintFreq>
+		</resMaint>
+		<themeKeys>
+			<keyword>boundaries</keyword>
+			<keyword>planningCadastre</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Categories</resTitle>
+			</thesaName>
+		</themeKeys>
+		<searchKeys>
+			<keyword>boundaries</keyword>
+			<keyword>planningCadastre</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts><useLimit>-</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useLimit>See access and use constraints information.</useLimit>
+			</LegConsts>
+		</resConst>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<tpCat>
+			<TopicCatCd value="003"/>
+		</tpCat>
+		<tpCat>
+			<TopicCatCd value="015"/>
+		</tpCat>
+		<envirDesc> Version 6.2 (Build 9200) ; Esri ArcGIS 10.3.1.4959</envirDesc>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>5.950344</westBL>
+					<eastBL>6.313355</eastBL>
+					<northBL>46.367186</northBL>
+					<southBL>46.129767</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataLang><languageCode value="fra" Sync="TRUE"></languageCode><countryCode value="CHE" Sync="TRUE"></countryCode></dataLang></dataIdInfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="CAD_COMMUNE"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<eainfo>
+		<detailed Name="CAD_COMMUNE">
+			<enttyp>
+				<enttypl>SITG_ADM.CAD_COMMUNE</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>COMMUNE</attrlabl>
+				<attalias Sync="TRUE">commune</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>NO_COMM</attrlabl>
+				<attalias Sync="TRUE">no_comm</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">5</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>LIEN_WWW</attrlabl>
+				<attalias Sync="TRUE">lien_www</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">35</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">abreviatio</attrlabl><attalias Sync="TRUE">abreviatio</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">no_com_fed</attrlabl><attalias Sync="TRUE">no_com_fed</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">5</attwidth><atprecis Sync="TRUE">5</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">st_area_sh</attrlabl><attalias Sync="TRUE">st_area_sh</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">st_length_</attrlabl><attalias Sync="TRUE">st_length_</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<mdLang><languageCode value="fra" Sync="TRUE"></languageCode><countryCode value="CHE" Sync="TRUE"></countryCode></mdLang><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="2056" Sync="TRUE"></identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">4.5(8.1.0)</idVersion></refSysID></RefSystem></refSysInfo><spdoinfo><ptvctinf><esriterm Name="CAD_COMMUNE"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>

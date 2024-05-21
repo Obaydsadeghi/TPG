@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: dimanche, 19 mai 2024 14:56:05</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\Users\obayd\OneDrive\Desktop\obayd\Universite\2023-2024\Printemps\GeoProg\TPG\TPG.atbx\BufferPoints.tool\tool.script.execute.py", line 9, in &lt;module&gt;
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 739, in GetParameterAsText
+﻿    return gp.getParameterAsText(index)
+﻿           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 242, in getParameterAsText
+﻿    self._gp.GetParameterAsText(*gp_fixargs(args, True)))
+﻿    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Object: Error in getting parameter as text
+</msg><msg code="0" type="0">Failed script BufferPoints...</msg><msg code="-2147467259" type="100">Failed to execute (BufferPoints).</msg><msg code="0" type="3">Failed at dimanche, 19 mai 2024 14:56:05 (Elapsed Time: 0,06 seconds)</msg></messages>
